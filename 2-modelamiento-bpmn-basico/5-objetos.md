@@ -5,8 +5,6 @@
 
 Los objetos en BPMN nos permiten representar flujos complejos o grupos de actividades que se repiten en los procesos de negocio. Esta notación estandarizada facilita la documentación y comunicación de procesos.
 
-![Introducción a BPMN](../images/5-introduccion.png)
-
 ## Tipos de Objetos
 
 ### 1. Subprocesos
