@@ -1,8 +1,11 @@
+
 # Objetos en BPMN (Business Process Model and Notation)
 
 ## Introducción
 
 Los objetos en BPMN nos permiten representar flujos complejos o grupos de actividades que se repiten en los procesos de negocio. Esta notación estandarizada facilita la documentación y comunicación de procesos.
+
+![Introducción a BPMN](../images/5-introduccion.png)
 
 ## Tipos de Objetos
 
@@ -17,7 +20,11 @@ Cuando tenemos flujos muy complejos o grupos de actividades que se repiten, pode
 
 Estas actividades se pueden representar con un solo objeto llamado "Generar orden de compra".
 
+![Subproceso](../images/5-subproceso.png)
+
 **Representación**: Se utiliza el símbolo de una actividad con un recuadro y el símbolo "+" (más). Esto indica que dentro de este símbolo hay un conjunto de actividades que puede repetirse en distintos puntos del proceso o que simplifica el flujo.
+
+![Subproceso con símbolo +](../images/5-subproceso-simbolo-mas.png)
 
 ### 2. Objetos de Datos
 
@@ -34,15 +41,23 @@ Los eventos marcan puntos importantes en el proceso:
 - **Evento de inicio**: Marca el comienzo de un proceso.
 - **Evento de fin**: Marca la finalización de un proceso.
 
+![Eventos en BPMN](../images/5-eventos.png)
+
 ### 4. Objetos de Conexión
 
 Los objetos de conexión pueden ser:
 
 1. **Secuenciadores de flujo**: Indican por dónde va el flujo. Muestran la trayectoria de una instancia a lo largo del proceso. Es importante que todo flujo tenga una conexión entre todos sus elementos mediante estos secuenciadores.
 
+![Secuencia de flujo](../images/5-4-1-secuencia-flujo.png)
+
 2. **Secuencia de mensajes**: Se utiliza cuando tenemos dos procesos que necesitan comunicarse. Por ejemplo, cuando un proceso termina con un evento que envía un mensaje a otro proceso para que este se inicie.
 
+![Secuencia de mensajes](../images/5-4-2-secuencia-de-mensajes.png)
+
 3. **Asociación**: Cuando queremos proporcionar más información a una tarea, agregamos un elemento de datos con una asociación. Esto permite asociar documentos o comentarios a tareas específicas para proporcionar información complementaria.
+
+![Asociación](../images/5-4-3-asociacion.png)
 
 ## Importancia en la Documentación de Procesos
 
