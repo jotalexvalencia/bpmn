@@ -1,6 +1,6 @@
 
 # Objetos en BPMN (Business Process Model and Notation)
-
+![Objetos en BPMN](../images/5-objetos-bpmn.png)
 ## Introducción
 
 Los objetos en BPMN nos permiten representar flujos complejos o grupos de actividades que se repiten en los procesos de negocio. Esta notación estandarizada facilita la documentación y comunicación de procesos.
