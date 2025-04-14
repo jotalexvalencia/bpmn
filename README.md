@@ -75,14 +75,4 @@ El curso combina teoría con ejercicios prácticos, permitiéndote aplicar lo ap
 - [Lección 10: Pools y Lanes](4-bifurcadores-y-roles-dentro-proceso/10-pools-y-lanes.md)
 - [Lección 11: Qué más nos ofrece BPMN](4-bifurcadores-y-roles-dentro-proceso/11-que-mas-nos-ofrece-bpmn.md)
 
-## 📊 Seguimiento de Progreso
 
-Para llevar un registro visual de tu avance en el curso, hemos creado una herramienta de seguimiento interactiva:
-
-[Abrir seguimiento de progreso del curso](progress-tracker.html) 
-
-Esta herramienta te permitirá:
-- Marcar las lecciones completadas
-- Ver tu porcentaje de progreso actualizado automáticamente
-- Guardar tu avance para continuar más tarde
-- Reiniciar tu progreso si deseas comenzar de nuevo
