@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+  <title>Seguimiento de Progreso - BPMN</title>
+  <link
+    rel="stylesheet"
+    href="styles.css"
+  >
+</head>
+
+<body>
+  <div class="container">
+    <h1>Modelamiento de Procesos usando el estándar BPMN</h1>
+
+    <div class="progress-container">
+      <div class="progress-circle">
+        <span id="progress-percentage">0%</span>
+      </div>
+      <h2>Progreso del Curso</h2>
+    </div>
+
+    <div class="modules">
+      <div class="module">
+        <h3>Módulo 1: Qué implica el mapa de empresa</h3>
+        <div class="lesson">
+          <input
+            type="checkbox"
+            id="lesson1"
+            class="lesson-checkbox"
+          >
+          <label for="lesson1">
+            <a
+              href="01-que-implica-mapa-empresa/01-entendiendo-las-organizaciones.md"
+              target="_blank"
+            >
+              Lección 1: Entendiendo las organizaciones
+            </a>
+          </label>
+        </div>
+        <div class="lesson">
+          <input
+            type="checkbox"
+            id="lesson2"
+            class="lesson-checkbox"
+          >
+          <label for="lesson2">
+            <a
+              href="01-que-implica-mapa-empresa/02-medidicion-del-rendimiento.md"
+              target="_blank"
+            >
+              Lección 2: Medición del rendimiento
+            </a>
+          </label>
+        </div>
+      </div>
+
+      <div class="module">
+        <h3>Módulo 2: Modelamiento BPMN básico</h3>
+        <div class="lesson">
+          <input
+            type="checkbox"
+            id="lesson3"
+            class="lesson-checkbox"
+          >
+          <label for="lesson3">
+            <a
+              href="02-modelamiento-bpmn-basico/03-introduccion-bpmn.md"
+              target="_blank"
+            >
+              Lección 3: Introducción a BPMN
+            </a>
+          </label>
+        </div>
+        <div class="lesson">
+          <input
+            type="checkbox"
+            id="lesson4"
+            class="lesson-checkbox"
+          >
+          <label for="lesson4">
+            <a
+              href="02-modelamiento-bpmn-basico/04-elementos-basicos.md"
+              target="_blank"
+            >
+              Lección 4: Elementos básicos
+            </a>
+          </label>
+        </div>
+        <div class="lesson">
+          <input
+            type="checkbox"
+            id="lesson6"
+            class="lesson-checkbox"
+          >
+          <label for="lesson6">
+            <a
+              href="02-modelamiento-bpmn-basico/06-ejemplos-de-aplicacion.md"
+              target="_blank"
+            >
+              Lección 6: Ejemplos de aplicación
+            </a>
+          </label>
+        </div>
+      </div>
+
+      <div class="module">
+        <h3>Módulo 3: Modelamiento con BPMN simplificando flujos con eventos</h3>
+        <div class="lesson">
+          <input
+            type="checkbox"
+            id="lesson7"
+            class="lesson-checkbox"
+          >
+          <label for="lesson7">
+            <a
+              href="03-modelamiento-con-bpmn-simplificando-flujos-con-eventos/07-que-es-evento-y-sus-tipos.md"
+              target="_blank"
+            >
+              Lección 7: Qué es un evento y sus tipos
+            </a>
+          </label>
+        </div>
+        <div class="lesson">
+          <input
+            type="checkbox"
+            id="lesson8"
+            class="lesson-checkbox"
+          >
+          <label for="lesson8">
+            <a
+              href="03-modelamiento-con-bpmn-simplificando-flujos-con-eventos/08-ejemplos-de-aplicacion.md"
+              target="_blank"
+            >
+              Lección 8: Ejemplos de aplicación
+            </a>
+          </label>
+        </div>
+      </div>
+
+      <div class="module">
+        <h3>Módulo 4: Bifurcadores y roles dentro del proceso</h3>
+        <div class="lesson">
+          <input
+            type="checkbox"
+            id="lesson9"
+            class="lesson-checkbox"
+          >
+          <label for="lesson9">
+            <a
+              href="4-bifurcadores-y-roles-dentro-proceso/09-bifurcadores-ppales-gateways.md"
+              target="_blank"
+            >
+              Lección 9: Bifurcadores principales (Gateways)
+            </a>
+          </label>
+        </div>
+        <div class="lesson">
+          <input
+            type="checkbox"
+            id="lesson10"
+            class="lesson-checkbox"
+          >
+          <label for="lesson10">
+            <a
+              href="4-bifurcadores-y-roles-dentro-proceso/10-pools-y-lanes.md"
+              target="_blank"
+            >
+              Lección 10: Pools y Lanes
+            </a>
+          </label>
+        </div>
+        <div class="lesson">
+          <input
+            type="checkbox"
+            id="lesson11"
+            class="lesson-checkbox"
+          >
+          <label for="lesson11">
+            <a
+              href="4-bifurcadores-y-roles-dentro-proceso/11-que-mas-nos-ofrece-bpmn.md"
+              target="_blank"
+            >
+              Lección 11: Qué más nos ofrece BPMN
+            </a>
+          </label>
+        </div>
+      </div>
+    </div>
+
+    <div class="actions">
+      <button id="save-progress">Guardar Progreso</button>
+      <button id="reset-progress">Reiniciar Progreso</button>
+    </div>
+  </div>
+
+  <script src="src/progress.js"></script>
+</body>
+
+</html>
+</qodoArtifact>
