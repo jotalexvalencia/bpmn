@@ -1,3 +1,4 @@
+
 # Modelamiento de Procesos usando el estándar BPMN
 
 ## 📋 Descripción del Curso
@@ -53,3 +54,35 @@ El curso combina teoría con ejercicios prácticos, permitiéndote aplicar lo ap
 ---
 
 *Este curso te dará las herramientas necesarias para documentar procesos de manera efectiva, facilitando la comunicación entre diferentes áreas de la organización y sentando las bases para posibles mejoras o automatizaciones futuras.*
+
+## 📝 Lecciones del Curso
+
+### Módulo 1: Qué implica el mapa de empresa
+- [Lección 1: Entendiendo las organizaciones](01-que-implica-mapa-empresa/01-entendiendo-las-organizaciones.md)
+- [Lección 2: Medición del rendimiento](01-que-implica-mapa-empresa/02-medidicion-del-rendimiento.md)
+
+### Módulo 2: Modelamiento BPMN básico
+- [Lección 3: Introducción a BPMN](02-modelamiento-bpmn-basico/03-introduccion-bpmn.md)
+- [Lección 4: Elementos básicos](02-modelamiento-bpmn-basico/04-elementos-basicos.md)
+- [Lección 6: Ejemplos de aplicación](02-modelamiento-bpmn-basico/06-ejemplos-de-aplicacion.md)
+
+### Módulo 3: Modelamiento con BPMN simplificando flujos con eventos
+- [Lección 7: Qué es un evento y sus tipos](03-modelamiento-con-bpmn-simplificando-flujos-con-eventos/07-que-es-evento-y-sus-tipos.md)
+- [Lección 8: Ejemplos de aplicación](03-modelamiento-con-bpmn-simplificando-flujos-con-eventos/08-ejemplos-de-aplicacion.md)
+
+### Módulo 4: Bifurcadores y roles dentro del proceso
+- [Lección 9: Bifurcadores principales (Gateways)](4-bifurcadores-y-roles-dentro-proceso/09-bifurcadores-ppales-gateways.md)
+- [Lección 10: Pools y Lanes](4-bifurcadores-y-roles-dentro-proceso/10-pools-y-lanes.md)
+- [Lección 11: Qué más nos ofrece BPMN](4-bifurcadores-y-roles-dentro-proceso/11-que-mas-nos-ofrece-bpmn.md)
+
+## 📊 Seguimiento de Progreso
+
+Para llevar un registro visual de tu avance en el curso, hemos creado una herramienta de seguimiento interactiva:
+
+[Abrir seguimiento de progreso del curso](progress-tracker.html) 
+
+Esta herramienta te permitirá:
+- Marcar las lecciones completadas
+- Ver tu porcentaje de progreso actualizado automáticamente
+- Guardar tu avance para continuar más tarde
+- Reiniciar tu progreso si deseas comenzar de nuevo
