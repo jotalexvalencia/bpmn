@@ -1,8 +1,13 @@
+
 # Entendiendo las Organizaciones con BPMN
 
 ## ¿Qué es BPMN?
 
 BPMN (Business Process Model and Notation) es un estándar internacional para modelar procesos de negocio. Es como un "lenguaje visual" que permite documentar cómo funciona una organización a través de sus procesos.
+
+<div style="text-align: center; margin: 20px 0;">
+  <img src="./images/1-que-es-bpmn.png" alt="¿Qué es BPMN?" style="max-width: 100%; height: auto;">
+</div>
 
 ## ¿Por qué es importante entender una organización?
 
@@ -13,6 +18,10 @@ Antes de empezar a documentar procesos con BPMN, necesitamos entender tres aspec
 3. **¿Cuáles son sus objetivos?** → Cómo planea alcanzar su visión
 
 Sin entender estos elementos, no podríamos evaluar si los procesos que documentamos están realmente ayudando a la organización a cumplir sus metas.
+
+<div style="text-align: center; margin: 20px 0;">
+  <img src="./images/1-porque-es-importante-entender-una-organizacion.png" alt="¿Por qué es importante entender una organización?" style="max-width: 100%; height: auto;">
+</div>
 
 ## La importancia de usar un estándar como BPMN
 
@@ -27,6 +36,10 @@ BPMN se convirtió en un estándar ISO en 2013 (ISO/IEC 19510), lo que significa
 
 Todas las empresas, ya sean de productos o servicios, siguen secuencias lógicas para entregar valor a sus clientes. Por ejemplo, una empresa de distribución podría seguir este flujo:
 
+<div style="text-align: center; margin: 20px 0;">
+  <img src="./images/1-comprar-almacenar-vender-distribuir-entregar.png" alt="Flujo de procesos: Comprar → Almacenar → Vender → Distribuir → Entregar" style="max-width: 100%; height: auto;">
+</div>
+
 ```
 Comprar → Almacenar → Vender → Distribuir → Entregar
 ```
@@ -39,6 +52,10 @@ BPMN contempla diferentes niveles de detalle:
 
 1. **Nivel descriptivo**: Vista de alto nivel de los procesos principales (cadena de valor)
 2. **Niveles más detallados**: Que veremos a lo largo del curso
+
+<div style="text-align: center; margin: 20px 0;">
+  <img src="./images/1-niveles-modelado-bpmn.png" alt="Niveles de modelado en BPMN" style="max-width: 100%; height: auto;">
+</div>
 
 ## Beneficios de BPMN para desarrolladores
 
@@ -56,6 +73,9 @@ Existen diversas herramientas para documentar procesos con BPMN:
 - Camunda
 - Bonita BPM
 - Incluso Microsoft Visio
+- **Apache KIE™ Kogito Bundle**
+- Apache KIE™ (incubating)
+- eraser.io
 
 Sin embargo, lo importante es seguir el estándar BPMN independientemente de la herramienta que uses.
 
