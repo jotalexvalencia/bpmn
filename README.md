@@ -59,7 +59,7 @@ El curso combina fundamentos teóricos con aplicaciones prácticas, permitiéndo
 
 ### Módulo 1: El Mapa Empresarial
 - [Lección 1: Comprensión de Estructuras Organizacionales](01-que-implica-mapa-empresa/01-entendiendo-las-organizaciones.md)
-- [Lección 2: Evaluación del Desempeño Organizacional](01-que-implica-mapa-empresa/02-medidicion-del-rendimiento.md)
+- [Lección 2: Evaluación del Desempeño Organizacional](01-que-implica-mapa-empresa/02-evaluacion-desempenio.md)
 
 ### Módulo 2: Fundamentos del Modelado BPMN
 - [Lección 3: Iniciación en BPMN](02-modelamiento-bpmn-basico/03-introduccion-bpmn.md)

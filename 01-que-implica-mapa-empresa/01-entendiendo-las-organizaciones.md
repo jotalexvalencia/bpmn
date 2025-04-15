@@ -42,10 +42,6 @@ Todas las empresas, ya sean de productos o servicios, siguen secuencias lógicas
   <img src="../images/1-comprar-almacenar-vender-distribuir-entregar.png" alt="Flujo de procesos: Comprar → Almacenar → Vender → Distribuir → Entregar" style="max-width: 100%; height: auto;">
 </div>
 
-```
-Comprar → Almacenar → Vender → Distribuir → Entregar
-```
-
 Esta secuencia básica es el punto de partida para documentar procesos con BPMN.
 
 ## Niveles de modelado en BPMN
