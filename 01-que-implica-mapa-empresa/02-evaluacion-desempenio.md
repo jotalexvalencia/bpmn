@@ -31,11 +31,19 @@ Objetivos concretos para cada parámetro
 Metas operativas en los procesos
 ```
 
+<div style="text-align: center; margin: 20px 0;">
+  <img src="../images/2-distribucion-jerarquica-metas-parametros.png" alt="Distribución jerárquica de metas y parámetros" style="max-width: 100%; height: auto; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+
 ### Ilustración básica
 
 - **Meta individual**: Competir en los Juegos Olímpicos
 - **Parámetro**: Duración del adiestramiento diario
 - **Objetivo**: Como mínimo 3 horas cada día
+
+<div style="text-align: center; margin: 20px 0;">
+  <img src="../images/2-ilustracion-basica.png" alt="Ilustración básica de metas y parámetros" style="max-width: 100%; height: auto; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
 
 ### Ilustración empresarial
 
@@ -50,6 +58,10 @@ Metas operativas en los procesos
       - **Parámetro operativo**: Lapso de envío
       - **Objetivo operativo**: Retraso máximo de 12 horas
 
+<div style="text-align: center; margin: 20px 0;">
+  <img src="../images/2-ilustracion-empresarial.png" alt="Ilustración empresarial de jerarquía de metas" style="max-width: 100%; height: auto; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+
 ## Implementación en la diagramación BPMN
 
 Al registrar procesos con BPMN, debemos:
@@ -59,6 +71,10 @@ Al registrar procesos con BPMN, debemos:
 3. Ahondar en el **plano operativo** para documentar con mayor precisión
 4. Captar las tareas concretas realizadas por los colaboradores
 5. Definir parámetros en cada plano que se correspondan con las metas superiores
+
+<div style="text-align: center; margin: 20px 0;">
+  <img src="../images/2-implementacion-diagramacion-bpmn.png" alt="Implementación en la diagramación BPMN" style="max-width: 100%; height: auto; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
 
 ## Ventajas de evaluar el desempeño
 
