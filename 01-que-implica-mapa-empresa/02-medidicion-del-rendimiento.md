@@ -1,75 +1,75 @@
 
-# Medición del Rendimiento en BPMN
+# Evaluación del Desempeño en BPMN
 
-## Objetivo
-Entender por qué es importante medir el rendimiento cuando modelamos procesos usando el estándar BPMN.
+## Finalidad
+Comprender la relevancia de evaluar el desempeño al diagramar procesos utilizando el marco BPMN.
 
-## ¿Por qué medir el rendimiento?
+## ¿Para qué evaluar el desempeño?
 
-Cuando modelamos procesos con BPMN, es fundamental establecer métricas que nos permitan evaluar si estamos cumpliendo los objetivos de la organización. Esto ocurre en diferentes niveles:
+Al diagramar procesos con BPMN, resulta esencial establecer parámetros que nos faculten para valorar si alcanzamos las metas organizacionales. Esto sucede en distintos planos:
 
-1. **Nivel estratégico**: Misión y visión de la empresa
-2. **Nivel descriptivo**: Objetivos específicos de los procesos principales
-3. **Nivel operativo**: Métricas detalladas de las actividades diarias
+1. **Plano estratégico**: Propósito y aspiración empresarial
+2. **Plano descriptivo**: Propósitos particulares de los procesos fundamentales
+3. **Plano operativo**: Parámetros detallados de las tareas cotidianas
 
-La medición del rendimiento nos ayuda a identificar:
-- Qué está fallando en nuestros procesos
-- Qué nos impide cumplir los objetivos organizacionales
-- Dónde debemos enfocar nuestros esfuerzos de mejora
+La evaluación del desempeño nos facilita detectar:
+- Qué elementos no funcionan adecuadamente en nuestros procesos
+- Qué obstáculos nos dificultan alcanzar las metas corporativas
+- En qué áreas debemos concentrar nuestras iniciativas de optimización
 
-## Estructura de objetivos e indicadores
+## Organización de metas y parámetros
 
-### Jerarquía de objetivos e indicadores
+### Distribución jerárquica de metas y parámetros
 
 ```
-Objetivo de alto nivel
+Meta superior
   ↓
-Indicadores que lo miden
+Parámetros que la cuantifican
   ↓
-Metas específicas para cada indicador
+Objetivos concretos para cada parámetro
   ↓
-Objetivos operativos en los procesos
+Metas operativas en los procesos
 ```
 
-### Ejemplo simple
+### Ilustración básica
 
-- **Objetivo personal**: Participar en las Olimpiadas
-- **Indicador**: Horas de entrenamiento diario
-- **Meta**: Mínimo 3 horas diarias
+- **Meta individual**: Competir en los Juegos Olímpicos
+- **Parámetro**: Duración del adiestramiento diario
+- **Objetivo**: Como mínimo 3 horas cada día
 
-### Ejemplo empresarial
+### Ilustración empresarial
 
-- **Objetivo de alto nivel**: Mejorar el nivel de servicio al cliente
+- **Meta superior**: Potenciar la calidad de atención al consumidor
   
-  - **Indicador 1**: Número de clientes que vuelven a comprar
+  - **Parámetro 1**: Cantidad de consumidores que reiteran compras
   
-  - **Indicador 2**: Número de reclamos
-    - **Meta**: No más de 2% de pedidos con reclamos
+  - **Parámetro 2**: Cantidad de quejas
+    - **Objetivo**: No superar el 2% de solicitudes con quejas
     
-    - **Objetivo operativo**: Entregar productos a tiempo
-      - **Indicador operativo**: Tiempo de despacho
-      - **Meta operativa**: Demora máxima de 12 horas
+    - **Meta operativa**: Suministrar artículos puntualmente
+      - **Parámetro operativo**: Lapso de envío
+      - **Objetivo operativo**: Retraso máximo de 12 horas
 
-## Aplicación en el modelamiento BPMN
+## Implementación en la diagramación BPMN
 
-Al documentar procesos con BPMN, debemos:
+Al registrar procesos con BPMN, debemos:
 
-1. Comenzar desde el **nivel descriptivo** (nivel 1 en el entorno de procesos BPMN)
-2. Identificar posibles fallas o cuellos de botella
-3. Profundizar al **nivel operativo** para documentar con más detalle
-4. Entender las actividades específicas que realizan los trabajadores
-5. Establecer indicadores en cada nivel que se alineen con los objetivos superiores
+1. Iniciar desde el **plano descriptivo** (nivel 1 en el contexto de procesos BPMN)
+2. Reconocer posibles deficiencias o limitaciones
+3. Ahondar en el **plano operativo** para documentar con mayor precisión
+4. Captar las tareas concretas realizadas por los colaboradores
+5. Definir parámetros en cada plano que se correspondan con las metas superiores
 
-## Beneficios de medir el rendimiento
+## Ventajas de evaluar el desempeño
 
-- Permite evaluar objetivamente si estamos cumpliendo los objetivos
-- Facilita la identificación de áreas de mejora
-- Ayuda a priorizar esfuerzos de optimización
-- Conecta las actividades diarias con la estrategia de la organización
-- Proporciona un lenguaje común para discutir el desempeño
+- Posibilita valorar de manera imparcial si alcanzamos las metas
+- Simplifica la localización de áreas perfectibles
+- Contribuye a priorizar esfuerzos de perfeccionamiento
+- Vincula las tareas cotidianas con la estrategia corporativa
+- Suministra un vocabulario común para analizar el rendimiento
 
-## Conclusión
+## Reflexión final
 
-La medición del rendimiento es un componente esencial del modelamiento de procesos con BPMN. Nos permite asegurar que los procesos que documentamos están alineados con los objetivos organizacionales y que podemos identificar oportunidades de mejora de manera sistemática.
+La evaluación del desempeño constituye un elemento indispensable en la diagramación de procesos con BPMN. Nos permite asegurar que los procesos que registramos están alineados con las metas corporativas y que podemos identificar oportunidades de mejoramiento de forma metódica.
 
-Al documentar procesos usando BPMN, debemos considerar siempre cómo estos procesos contribuyen a los indicadores de rendimiento y, en última instancia, a los objetivos estratégicos de la organización.
+Al registrar procesos empleando BPMN, debemos reflexionar constantemente sobre cómo estos procesos aportan a los parámetros de desempeño y, en definitiva, a las metas estratégicas de la organización.
