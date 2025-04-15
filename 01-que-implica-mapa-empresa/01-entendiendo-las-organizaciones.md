@@ -1,6 +1,8 @@
 
 # Entendiendo las Organizaciones con BPMN
 
+Este documento ofrece una visión integral sobre BPMN (Business Process Model and Notation), un estándar internacional que permite modelar procesos de negocio de manera visual y comprensible. Se exploran los fundamentos necesarios para entender una organización antes de documentar sus procesos, la importancia de utilizar un estándar como BPMN, y los beneficios que ofrece a los desarrolladores. Además, se presentan herramientas útiles para implementar BPMN en la práctica.
+
 ## ¿Qué es BPMN?
 
 BPMN (Business Process Model and Notation) es un estándar internacional para modelar procesos de negocio. Es como un "lenguaje visual" que permite documentar cómo funciona una organización a través de sus procesos.
