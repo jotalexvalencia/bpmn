@@ -1,78 +1,76 @@
 
-# Modelamiento de Procesos usando el estándar BPMN
+# Aprende a Modelar Procesos con el Estándar BPMN
 
-## 📋 Descripción del Curso
+## 📋 Acerca del Curso
 
-Este curso te enseñará a modelar procesos de negocio utilizando BPMN (Business Process Model and Notation), un estándar internacional que permite documentar y entender cómo funciona una organización a través de sus procesos.
+Este programa formativo te introducirá al mundo del modelado de procesos empresariales mediante BPMN (Business Process Model and Notation), un estándar global que facilita la documentación y comprensión del funcionamiento organizacional a través de sus procesos clave.
 
-## 🎯 Objetivos
+## 🎯 Propósitos Formativos
 
-- Comprender cómo funciona una organización a través de sus procesos
-- Aprender el estándar BPMN para documentar procesos de manera que todos puedan entenderlos
-- Simplificar flujos de procesos usando eventos
-- Documentar divulgadores y roles en procesos BPMN
+- Adquirir una visión clara del funcionamiento organizacional mediante sus procesos
+- Dominar la notación BPMN para documentar procesos de forma universalmente comprensible
+- Optimizar flujos de trabajo mediante el uso adecuado de eventos
+- Aprender a representar correctamente participantes y responsabilidades en los diagramas BPMN
 
-## 📚 Estructura del Curso
+## 📚 Organización del Contenido
 
-El curso está dividido en cuatro sesiones:
+El programa formativo está organizado en cuatro módulos principales:
 
-### Sesión 1: Entendiendo la Organización
-- Comprender qué hace una empresa (Misión)
-- Identificar hacia dónde quiere ir (Visión)
-- Definir los objetivos para alcanzar esa visión
+### Módulo 1: Comprendiendo la Organización
+- Análisis de la razón de ser empresarial (Misión)
+- Exploración de la dirección estratégica (Visión)
+- Establecimiento de los objetivos estratégicos necesarios
 
-### Sesión 2: Fundamentos de BPMN
-- Aprender lo básico del estándar BPMN
-- Entender cómo funciona una empresa a través de sus procesos
+### Módulo 2: Principios Básicos de BPMN
+- Introducción a los elementos fundamentales de la notación BPMN
+- Comprensión del funcionamiento empresarial desde la perspectiva de procesos
 
-### Sesión 3: Simplificación de Procesos
-- Aprender a simplificar flujos de procesos
-- Utilizar eventos para mejorar la documentación
+### Módulo 3: Optimización de Procesos
+- Técnicas para la simplificación de flujos de trabajo
+- Aprovechamiento de eventos para mejorar la documentación de procesos
 
-### Sesión 4: Roles y Divulgadores
-- Identificar los divulgadores en un proceso
-- Documentar los roles que participan en un proceso BPMN
+### Módulo 4: Participantes y Responsabilidades
+- Identificación de bifurcadores en los flujos de proceso
+- Documentación efectiva de los participantes y sus roles en BPMN
 
-## 💡 ¿Por qué BPMN?
+## 💡 Ventajas del Estándar BPMN
 
-- Es un estándar internacional (ISO/IEC 19510)
-- Permite que todos en la organización "hablen el mismo idioma"
-- Facilita la documentación de procesos de manera unificada
-- Puede evolucionar desde la documentación hasta la automatización
+- Reconocimiento internacional (ISO/IEC 19510)
+- Establece un lenguaje común para toda la organización
+- Proporciona un marco unificado para la documentación de procesos
+- Permite la evolución desde la documentación hacia la automatización
 
-## 🛠️ Metodología
+## 🛠️ Enfoque Pedagógico
 
-El curso combina teoría con ejercicios prácticos, permitiéndote aplicar lo aprendido en casos de la vida real.
+El curso combina fundamentos teóricos con aplicaciones prácticas, permitiéndote implementar los conocimientos adquiridos en situaciones reales.
 
-## 👥 Dirigido a
+## 👥 Audiencia Objetivo
 
-- Analistas de negocio
-- Desarrolladores de software
-- Gerentes de proyecto
-- Cualquier persona interesada en entender y mejorar procesos organizacionales
+- Profesionales del análisis de negocio
+- Equipos de desarrollo de software
+- Gestores de proyectos
+- Cualquier profesional interesado en la comprensión y mejora de procesos organizacionales
 
 ---
 
-*Este curso te dará las herramientas necesarias para documentar procesos de manera efectiva, facilitando la comunicación entre diferentes áreas de la organización y sentando las bases para posibles mejoras o automatizaciones futuras.*
+*Este programa te proporcionará las competencias necesarias para documentar procesos de manera efectiva, facilitando la comunicación interdepartamental y estableciendo las bases para futuras mejoras o automatizaciones.*
 
-## 📝 Lecciones del Curso
+## 📝 Contenido Detallado
 
-### Módulo 1: Qué implica el mapa de empresa
-- [Lección 1: Entendiendo las organizaciones](01-que-implica-mapa-empresa/01-entendiendo-las-organizaciones.md)
-- [Lección 2: Medición del rendimiento](01-que-implica-mapa-empresa/02-medidicion-del-rendimiento.md)
+### Módulo 1: El Mapa Empresarial
+- [Lección 1: Comprensión de Estructuras Organizacionales](01-que-implica-mapa-empresa/01-entendiendo-las-organizaciones.md)
+- [Lección 2: Evaluación del Desempeño Organizacional](01-que-implica-mapa-empresa/02-medidicion-del-rendimiento.md)
 
-### Módulo 2: Modelamiento BPMN básico
-- [Lección 3: Introducción a BPMN](02-modelamiento-bpmn-basico/03-introduccion-bpmn.md)
-- [Lección 4: Elementos básicos](02-modelamiento-bpmn-basico/04-elementos-basicos.md)
-- [Lección 6: Ejemplos de aplicación](02-modelamiento-bpmn-basico/06-ejemplos-de-aplicacion.md)
+### Módulo 2: Fundamentos del Modelado BPMN
+- [Lección 3: Iniciación en BPMN](02-modelamiento-bpmn-basico/03-introduccion-bpmn.md)
+- [Lección 4: Componentes Fundamentales](02-modelamiento-bpmn-basico/04-elementos-basicos.md)
+- [Lección 6: Casos Prácticos de Implementación](02-modelamiento-bpmn-basico/06-ejemplos-de-aplicacion.md)
 
-### Módulo 3: Modelamiento con BPMN simplificando flujos con eventos
-- [Lección 7: Qué es un evento y sus tipos](03-modelamiento-con-bpmn-simplificando-flujos-con-eventos/07-que-es-evento-y-sus-tipos.md)
-- [Lección 8: Ejemplos de aplicación](03-modelamiento-con-bpmn-simplificando-flujos-con-eventos/08-ejemplos-de-aplicacion.md)
+### Módulo 3: Optimización mediante Eventos en BPMN
+- [Lección 7: Concepto y Tipología de Eventos](03-modelamiento-con-bpmn-simplificando-flujos-con-eventos/07-que-es-evento-y-sus-tipos.md)
+- [Lección 8: Implementaciones Prácticas](03-modelamiento-con-bpmn-simplificando-flujos-con-eventos/08-ejemplos-de-aplicacion.md)
 
-### Módulo 4: Bifurcadores y roles dentro del proceso
-- [Lección 9: Bifurcadores principales (Gateways)](4-bifurcadores-y-roles-dentro-proceso/09-bifurcadores-ppales-gateways.md)
-- [Lección 10: Pools y Lanes](4-bifurcadores-y-roles-dentro-proceso/10-pools-y-lanes.md)
-- [Lección 11: Qué más nos ofrece BPMN](4-bifurcadores-y-roles-dentro-proceso/11-que-mas-nos-ofrece-bpmn.md)
-
-
+### Módulo 4: Bifurcaciones y Asignación de Roles
+- [Lección 9: Compuertas Principales (Gateways)](4-bifurcadores-y-roles-dentro-proceso/09-bifurcadores-ppales-gateways.md)
+- [Lección 10: Organización de Participantes con Pools y Lanes](4-bifurcadores-y-roles-dentro-proceso/10-pools-y-lanes.md)
+- [Lección 11: Capacidades Avanzadas de BPMN](4-bifurcadores-y-roles-dentro-proceso/11-que-mas-nos-ofrece-bpmn.md)
