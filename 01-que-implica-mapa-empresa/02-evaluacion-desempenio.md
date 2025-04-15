@@ -21,16 +21,6 @@ La evaluación del desempeño nos facilita detectar:
 
 ### Distribución jerárquica de metas y parámetros
 
-```
-Meta superior
-  ↓
-Parámetros que la cuantifican
-  ↓
-Objetivos concretos para cada parámetro
-  ↓
-Metas operativas en los procesos
-```
-
 <div style="text-align: center; margin: 20px 0;">
   <img src="../images/2-distribucion-jerarquica-metas-parametros.png" alt="Distribución jerárquica de metas y parámetros" style="max-width: 100%; height: auto; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
