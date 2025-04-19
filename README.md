@@ -2,7 +2,7 @@
 # Curso de BPMN
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Progreso%20Total-0%25-lightgrey?style=for-the-badge&logo=github&logoColor=white" alt="Progreso: 25%" height="40" />
+  <img src="progress-circle-25.svg" alt="Progreso: 25%" height="40" />
 </div>
 
 ## 📋 Seguimiento de Progreso
@@ -41,14 +41,14 @@ Este README incluye un sistema de seguimiento para marcar tu avance en el curso.
 
 1. Cuando completes todas las lecciones de un módulo, busca esta línea en la parte superior del archivo:
    ```markdown
-   <img src="https://img.shields.io/badge/Progreso%20Total-0%25-lightgrey?style=for-the-badge&logo=github&logoColor=white" alt="Progreso: 0%" height="40" />
+   <img src="progress-circle-0.svg" alt="Progreso: 0%" height="40" />
    ```
 
 2. Cámbiala según tu progreso:
-   - Para 25% (1 módulo): `<img src="https://img.shields.io/badge/Progreso%20Total-25%25-red?style=for-the-badge&logo=github&logoColor=white" alt="Progreso: 25%" height="40" />`
-   - Para 50% (2 módulos): `<img src="https://img.shields.io/badge/Progreso%20Total-50%25-orange?style=for-the-badge&logo=github&logoColor=white" alt="Progreso: 50%" height="40" />`
-   - Para 75% (3 módulos): `<img src="https://img.shields.io/badge/Progreso%20Total-75%25-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Progreso: 75%" height="40" />`
-   - Para 100% (4 módulos): `<img src="https://img.shields.io/badge/Progreso%20Total-100%25-success?style=for-the-badge&logo=github&logoColor=white" alt="Progreso: 100%" height="40" />`
+   - Para 25% (1 módulo): `<img src="progress-circle-25.svg" alt="Progreso: 25%" height="40" />`
+   - Para 50% (2 módulos): `<img src="progress-circle-50.svg" alt="Progreso: 50%" height="40" />`
+   - Para 75% (3 módulos): `<img src="progress-circle-75.svg" alt="Progreso: 75%" height="40" />`
+   - Para 100% (4 módulos): `<img src="progress-circle-100.svg" alt="Progreso: 100%" height="40" />`
 
 3. Haz commit y push de los cambios para actualizar el README.
 
