@@ -1,0 +1,19 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Círculo gris de fondo (representa el 100%) -->
+  <circle cx="100" cy="100" r="80" fill="none" stroke="#e6e6e6" stroke-width="15" />
+  
+  <!-- Círculo de progreso (inicialmente 0%) -->
+  <circle cx="100" cy="100" r="80" fill="none" stroke="#4CAF50" stroke-width="15" 
+          stroke-dasharray="0 502.4" stroke-dashoffset="0" 
+          transform="rotate(-90 100 100)" />
+  
+  <!-- Texto de porcentaje en el centro -->
+  <text x="100" y="105" font-family="Arial" font-size="30" text-anchor="middle" fill="#333" font-weight="bold">
+    75%
+  </text>
+  
+  <!-- Etiqueta de progreso -->
+  <text x="100" y="130" font-family="Arial" font-size="12" text-anchor="middle" fill="#666">
+    Progreso del curso
+  </text>
+</svg>
