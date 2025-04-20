@@ -71,8 +71,8 @@ Existen diversas herramientas para documentar procesos con BPMN:
 - Camunda
 - Bonita BPM
 - Incluso Microsoft Visio
-- **Apache KIE™ Kogito Bundle**
-- Apache KIE™ (incubating)
+- BPMN Editor (extensión VSCODE)
+- Lucidchart
 - eraser.io
 
 Sin embargo, lo importante es seguir el estándar BPMN independientemente de la herramienta que uses.
