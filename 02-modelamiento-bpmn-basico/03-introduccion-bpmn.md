@@ -6,6 +6,10 @@ El marco estructural de BPMN (también llamado "entorno de procesos") es una for
 
 ## Niveles del Marco Estructural
 
+<div style="text-align: center; margin: 20px 0;">
+  <img src="../images/3-niveles-marco-estructural.png" alt="Ilustración empresarial de jerarquía de metas" style="max-width: 100%; height: auto; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+
 ### Nivel 1: Modelo Descriptivo
 
 **¿Qué es?**
@@ -25,6 +29,10 @@ Proporcionar una comprensión rápida del funcionamiento de la organización.
 **Ejemplo:**
 Un diagrama simple que muestra cómo un cliente solicita un crédito, el departamento de atención lo recibe y el departamento de créditos lo evalúa.
 
+<div style="text-align: center; margin: 20px 0;">
+  <img src="../images/3-modelo-descriptivo.png" alt="Ilustración empresarial de jerarquía de metas" style="max-width: 100%; height: auto; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+
 ### Nivel 2: Modelo Operativo
 
 **¿Qué es?**
@@ -43,6 +51,10 @@ Entender a detalle cómo funciona cada proceso, sus flujos y quiénes son los ac
 
 **Ejemplo:**
 Un diagrama detallado que muestra cada paso del proceso de solicitud de crédito, incluyendo la revisión de documentos, evaluación de criterios, aprobación o rechazo, etc.
+
+<div style="text-align: center; margin: 20px 0;">
+  <img src="../images/3-modelo-operativo.png" alt="Ilustración empresarial de jerarquía de metas" style="max-width: 100%; height: auto; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
 
 ### Nivel 3: Modelo Técnico
 
@@ -90,6 +102,10 @@ Como desarrollador, entender estos niveles te ayudará a:
 2. Visualizar cómo tu código se integra en los procesos más amplios
 3. Comunicarte más efectivamente con analistas de negocio
 4. Diseñar soluciones que realmente satisfagan las necesidades de la organización
+
+<div style="text-align: center; margin: 20px 0;">
+  <img src="../images/3-importancia-desarrolladores.png" alt="Ilustración empresarial de jerarquía de metas" style="max-width: 100%; height: auto; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
 
 ## Resumen
 
