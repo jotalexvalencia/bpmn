@@ -13,7 +13,15 @@ BPMN utiliza cinco grupos principales de elementos:
 4. **Participantes**
 5. **Datos**
 
+<div style="text-align: center; margin: 20px 0;">
+  <img src="../images/4-objetos-flujo-identificados.png" alt="Objetos de Flujo" style="max-width: 100%; height: auto; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+
 ## Detalle de los Elementos
+
+<div style="text-align: center; margin: 20px 0;">
+  <img src="../images/4-objetos-flujos-nombrados.png" alt="Objetos de Flujo Señalados en el diagrama" style="max-width: 100%; height: auto; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
 
 ### 1. Objetos de Flujo
 
@@ -102,6 +110,10 @@ BPMN utiliza cinco grupos principales de elementos:
 - Permite hacer seguimiento a casos específicos
 
 ## Ejemplo Práctico
+
+<div style="text-align: center; margin: 20px 0;">
+  <img src="../images/4-ejemplo-practico.png" alt="ejemplo practico" style="max-width: 100%; height: auto; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
 
 Imagina un proceso de evaluación de solicitudes de crédito:
 
