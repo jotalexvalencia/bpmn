@@ -33,22 +33,22 @@ Este README incluye un sistema de seguimiento para marcar tu avance en el curso.
 2. **Cuando completes un módulo entero**, actualiza el badge de progreso según las instrucciones al final
 
 ## Módulo 1: Cómo opera una empresa (25% del total)
-- [x] Lección 1.1: Introducción a BPMN
-- [x] Lección 1.2: Elementos básicos de modelado
-- [x] Lección 1.3: Flujos y conexiones
+- [x] Lección 1.1: Introducción a BPMN [📝](01-que-implica-mapa-empresa/01-entendiendo-las-organizaciones.md)
+- [x] Lección 1.2: Elementos básicos de modelado [📝](01-que-implica-mapa-empresa/02-evaluacion-desempenio.md)
+- [x] Lección 1.3: Flujos y conexiones [📝](02-modelamiento-bpmn-basico/03-introduccion-bpmn.md)
 
 ## Módulo 2: BPMN Básico comprender como opera una empresa (25% del total)
-- [ ] Lección 2.1: Actividades y tareas
-- [ ] Lección 2.2: Eventos y compuertas
-- [ ] Lección 2.3: Pools y lanes
+- [x] Lección 2.1: Actividades y tareas [📝](02-modelamiento-bpmn-basico/04-elementos-basicos.md)
+- [ ] Lección 2.2: Eventos y compuertas [📝](02-modelamiento-bpmn-basico/06-ejemplos-de-aplicacion.md)
+- [ ] Lección 2.3: Pools y lanes [📝](03-modelamiento-con-bpmn-simplificando-flujos-con-eventos/07-que-es-evento-y-sus-tipos.md)
 
 ## Módulo 3: Simplificar el flujo de procesos mediante eventos (25% del total)
-- [ ] Lección 3.1: Subprocesos y transacciones
-- [ ] Lección 3.2: Manejo de excepciones
-- [ ] Lección 3.3: Eventos complejos
+- [ ] Lección 3.1: Subprocesos y transacciones [📝](03-modelamiento-con-bpmn-simplificando-flujos-con-eventos/08-ejemplos-de-aplicacion.md)
+- [ ] Lección 3.2: Manejo de excepciones [📝](4-bifurcadores-y-roles-dentro-proceso/09-bifurcadores-ppales-gateways.md)
+- [ ] Lección 3.3: Eventos complejos [📝](4-bifurcadores-y-roles-dentro-proceso/10-pools-y-lanes.md)
 
 ## Módulo 4: Bifurcadores y Roles en un Proceso BPMN (25% del total)
-- [ ] Lección 4.1: Herramientas BPMN
+- [ ] Lección 4.1: Herramientas BPMN [📝](4-bifurcadores-y-roles-dentro-proceso/11-que-mas-nos-ofrece-bpmn.md)
 - [ ] Lección 4.2: Caso práctico completo
 
 ---
