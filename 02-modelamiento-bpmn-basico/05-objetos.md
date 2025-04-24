@@ -32,6 +32,8 @@ Existen dos tipos principales:
 
 2. **Comentario**: Cuando queremos proporcionar mayor información dentro del flujo sobre el desarrollo de una actividad, utilizamos este artefacto.
 
+![Objetos de datos y comentario](../images/5-objetos-datos.png)
+
 ### 3. Eventos
 
 Los eventos marcan puntos importantes en el proceso:
