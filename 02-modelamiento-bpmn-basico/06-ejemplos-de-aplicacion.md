@@ -30,6 +30,8 @@ Diagrama del proceso de preparar una comida, desde tener hambre hasta comer.
    - Objeto de datos: Receta (detalle del procedimiento)
 4. **Evento de fin**: Culminación del proceso después de comer
 
+![Ejemplo 1](../images/6-ejemplo1.png)
+
 ## Ejemplo 2: Preparación de Comida con Ensalada Opcional
 
 ### Descripción
@@ -45,6 +47,8 @@ Diagrama que incluye un bifurcador para decidir si preparar ensalada como acompa
    - Preparar plato principal
    - Comer
 4. **Evento de fin**: Culminación del proceso después de comer
+
+![Ejemplo 2](../images/6-ejemplo2.png)
 
 ### Concepto clave: Bifurcador
 - Representado por un rombo
@@ -70,6 +74,8 @@ Diagrama del proceso de solicitud y evaluación de un crédito para compra de au
 4. **Elementos adicionales**:
    - Objetos de datos: Resultado de la evaluación (para ambos caminos)
 5. **Eventos de fin**: Culminación del proceso (después de desembolso o después de comunicar rechazo)
+
+![Ejemplo 1](../images/6-ejemplo3.png)
 
 ## Conclusión
 
