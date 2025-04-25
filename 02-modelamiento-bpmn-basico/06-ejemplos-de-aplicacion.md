@@ -75,7 +75,7 @@ Diagrama del proceso de solicitud y evaluación de un crédito para compra de au
    - Objetos de datos: Resultado de la evaluación (para ambos caminos)
 5. **Eventos de fin**: Culminación del proceso (después de desembolso o después de comunicar rechazo)
 
-![Ejemplo 1](../images/6-ejemplo3.png)
+![Ejemplo 3](../images/6-ejemplo3.png)
 
 ## Conclusión
 
