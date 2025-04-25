@@ -2,3 +2,5 @@
 pdfs
 *.pdf
 bpmn/*
+checklist/*
+prompts/*
