@@ -220,6 +220,7 @@ Para implementar el diagrama BPMN completo, se recomendaría utilizar herramient
 - Draw.io (con biblioteca BPMN)
 - Lucidchart
 - Microsoft Visio
+- **BPMN.io Editor** (extensión de Visual Studio Code)
 
 El diagrama completo debería incluir:
 1. Pools y lanes para todos los participantes
@@ -232,6 +233,98 @@ El diagrama completo debería incluir:
 
 ---
 
+## PARTE 6: TÉCNICAS PARA LLEGAR A UN MAYOR NIVEL DE DETALLE
+
+### 1. Descomponer la Narración en Secuencias Atómicas
+
+#### Técnica:
+- Identifica cada acción individual que ocurre en el proceso
+- Divide las acciones compuestas en acciones simples
+- Organiza las acciones en orden cronológico estricto
+
+#### Ejemplo práctico:
+De la frase original: 
+> "...se genera una orden de compra y se le envía al proveedor para reponer el stock..."
+
+Se convierte en dos acciones discretas:
+1. "El asistente de compras genera una orden de compra"
+2. "El asistente envía la orden de compra al proveedor"
+
+### 2. Aplicar Estructura Jerárquica a las Decisiones
+
+#### Técnica:
+- Identifica todos los puntos de decisión (bifurcaciones)
+- Crea rutas alternativas completas para cada opción
+- Numera las rutas de manera sistemática (5A, 5B, etc.)
+
+#### Ejemplo práctico:
+El punto de decisión "¿Hay stock suficiente?" genera dos rutas completas:
+- Ruta 5A: Con stock suficiente
+- Ruta 5B: Sin stock suficiente
+
+### 3. Especificar Claramente los Actores
+
+#### Técnica:
+- Asegúrate de que cada acción tiene un actor específico
+- Incluye el actor al inicio de cada descripción de acción
+- Usa términos consistentes para los mismos actores
+
+#### Ejemplo práctico:
+- "El asistente de compras revisa el stock" (en lugar de "se revisa el stock")
+- "El almacén notifica la llegada de los productos" (en lugar de "se notifica")
+
+### 4. Utilizar Formato Visual para Mejorar la Legibilidad
+
+#### Técnica:
+- Usa negrita para destacar acciones principales
+- Emplea indentación para mostrar jerarquía
+- Implementa numeración clara y consistente
+
+#### Ejemplo práctico:
+```
+4. **Verificación de stock suficiente**:
+   - Si hay stock suficiente → Continúa en paso 5A
+   - Si no hay stock suficiente → Continúa en paso 5B
+```
+
+### 5. Agregar Detalles de Tiempo y Condiciones
+
+#### Técnica:
+- Incorpora información temporal cuando está disponible
+- Incluye condiciones específicas para decisiones
+- Agrega detalles operativos relevantes
+
+#### Ejemplo práctico:
+- "El proveedor atiende la orden de compra (toma 1-2 días)"
+- "Si hay stock suficiente → Continúa en paso 5A"
+
+### 6. Indicar Claramente el Inicio y Fin del Proceso
+
+#### Técnica:
+- Marca explícitamente dónde comienza el proceso
+- Señala todos los posibles puntos de finalización
+- Usa un formato consistente para estos eventos especiales
+
+#### Ejemplo práctico:
+- "**Inicio**: Un cliente importante hace un pedido..."
+- "Fin del proceso" (en ambas rutas alternativas)
+
+### 7. Técnicas de Entrevista para Obtener estos Detalles
+
+#### Preguntas de profundización:
+- "¿Quién exactamente realiza esta acción?"
+- "¿Qué ocurre inmediatamente después?"
+- "¿Cuánto tiempo toma normalmente este paso?"
+- "¿Hay algún sistema o herramienta específica que se utilice?"
+- "¿Qué documento/información se genera en este paso?"
+
+#### Preguntas de verificación:
+- "Entonces, después de que [acción X], ¿lo siguiente que ocurre es [acción Y]?"
+- "¿He entendido correctamente que [actor Z] es quien realiza esta tarea?"
+- "¿Existen otras condiciones o situaciones especiales que no hayamos considerado?"
+
+---
+
 ## REFERENCIAS Y RECURSOS ADICIONALES
 
 - **BPMN 2.0 Specification**: [OMG.org](https://www.omg.org/spec/BPMN/2.0/)
@@ -239,3 +332,7 @@ El diagrama completo debería incluir:
 - **Libros recomendados**:
   - "BPMN Method and Style" por Bruce Silver
   - "Real-Life BPMN" por Jakob Freund y Bernd Rücker
+- **Herramientas**:
+  - **BPMN.io Editor para VS Code**: Extensión que permite crear y editar diagramas BPMN directamente en Visual Studio Code. Se integra perfectamente con el flujo de trabajo de desarrollo y soporta la sintaxis BPMN 2.0 completa.
+    - [Enlace a la extensión BPMN.io Editor](https://marketplace.visualstudio.com/items?itemName=bpmn-io.vs-code-bpmn-io)
+    - Características: Vista previa en tiempo real, validación de sintaxis, exportación a diferentes formatos.
