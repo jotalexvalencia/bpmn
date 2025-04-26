@@ -28,3 +28,9 @@
    - El asistente de compras genera una orden de despacho
    - El almacén atiende la orden de despacho
    - Fin del proceso
+
+## Diagrama del Proceso
+
+<div style="text-align: center; max-width: 100%;">
+    <img src="01-practica-proceso-requisiciones-con-lanes-actualizado-26-04-2025.png" alt="Diagrama del proceso de atención de requisiciones" style="max-width: 100%; height: auto;">
+</div>
