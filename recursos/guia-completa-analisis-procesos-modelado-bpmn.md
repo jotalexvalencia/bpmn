@@ -147,7 +147,7 @@ Documenta detalles adicionales como:
 - Políticas (ej: stock de seguridad solo para clientes de tienda)
 - Excepciones (¿qué ocurre si el proveedor no puede atender?)
 
-### 6. Consejos para Trabajo In Situ sin Acceso a IA
+### 6. Consejos para Trabajo In Situ
 
 #### a) Lleva Plantillas
 - Prepara plantillas en papel o Excel para la extracción de información
