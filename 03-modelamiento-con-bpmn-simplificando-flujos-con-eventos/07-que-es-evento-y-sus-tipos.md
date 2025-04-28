@@ -13,6 +13,8 @@ Un evento es algo que ocurre en algún momento durante un proceso y se represent
 - **Durante la ejecución del flujo**: Eventos intermedios
 - **Al final del flujo**: Eventos de finalización
 
+![Tipos de eventos según posición](../images/07-1-que-es-un-evento.png){: .img-fluid .mx-auto .d-block style="max-width: 600px;"}
+
 ## Tipos de eventos según su posición en el proceso
 
 ### Eventos de inicio
@@ -22,16 +24,22 @@ Un evento es algo que ocurre en algún momento durante un proceso y se represent
 - Marcan el comienzo de un proceso o subproceso
 - Cuando el inicio de un proceso no está definido, simplemente se inicia
 
+![Eventos de inicio](../../images/07-eventos-inicio.png){: .img-fluid .mx-auto .d-block style="max-width: 500px;"}
+
 #### Subtipos de eventos de inicio
 
 1. **Evento de inicio temporizador**
    - Ejemplo: Un proceso que debe iniciarse todos los días a las 09:00
    - Se utiliza cuando el proceso comienza en un momento específico
 
+   ![Evento inicio temporizador](../images/07-1-evento-inicio-temporizador.png){: .img-fluid .mx-auto .d-block style="max-width: 300px;"}
+
 2. **Evento de inicio de mensaje**
    - Se representa con un círculo con un sobre dentro
    - Ejemplo: Cuando llega una orden de compra, se inicia el proceso para atenderla
    - Se utiliza cuando el proceso comienza al recibir un mensaje
+
+   ![Evento inicio mensaje](../images/07-2-evento-inicio-mensaje.png){: .img-fluid .mx-auto .d-block style="max-width: 300px;"}
 
 ### Eventos intermedios
 
@@ -39,10 +47,14 @@ Un evento es algo que ocurre en algún momento durante un proceso y se represent
 - Ocurren durante la ejecución del proceso
 - Pueden suceder en cualquier momento a lo largo del flujo
 
+![Eventos intermedios](../images/07-2-evento-intermedio.png){: .img-fluid .mx-auto .d-block style="max-width: 500px;"}
+
 #### Ejemplos de eventos intermedios
 
 1. **Evento intermedio de espera**
    - Ejemplo: En una oficina, después de sacar un ticket y antes de la atención, hay un evento de espera hasta que aparece un mensaje en pantalla
+
+   ![Evento intermedio espera](../images/07-2-evento-intermedio-espera.png){: .img-fluid .mx-auto .d-block style="max-width: 350px;"}
 
 2. **Eventos intermedios adosados a una actividad**
    - Se colocan en el borde de una actividad
@@ -50,11 +62,15 @@ Un evento es algo que ocurre en algún momento durante un proceso y se represent
      - Si el pago no llega en dos días, se cancela la orden
      - Si el pago llega a tiempo, se prepara y entrega el pedido
 
+   ![Evento intermedio en lindero de actividad](../images/07-2-evento-intermedio-adosado-actividad.png){: .img-fluid .mx-auto .d-block style="max-width: 500px;"}
+
 ### Eventos de finalización
 
 - Se representan con un círculo de borde grueso
 - Ocurren al finalizar un proceso
 - Marcan el término de un flujo de proceso
+
+![Eventos de finalización](../images/07-2-evento-finalizacion.png){: .img-fluid .mx-auto .d-block style="max-width: 400px;"}
 
 ## Ejemplos prácticos
 
@@ -63,6 +79,8 @@ Un evento es algo que ocurre en algún momento durante un proceso y se represent
 1. **Evento de inicio**: Queremos cocinar
 2. **Evento intermedio**: Esperar que la cena se haya preparado
 3. **Evento de finalización**: Terminar de comer
+
+![Proceso básico con eventos](../images/07-3-ejemplo-practico1.png){: .img-fluid .mx-auto .d-block style="max-width: 650px;"}
 
 ### Simplificación de un flujo con eventos
 
@@ -76,6 +94,8 @@ Un evento es algo que ocurre en algún momento durante un proceso y se represent
 1. Evento de inicio de mensaje: Solicitud de cliente
 2. Preparamos la respuesta
 3. Evento de finalización con mensaje: Enviamos respuesta al cliente
+
+![Proceso simplificado con eventos](../images/07-3-ejemplo-practico-2.png){: .img-fluid .mx-auto .d-block style="max-width: 650px;"}
 
 ## Conclusión
 
