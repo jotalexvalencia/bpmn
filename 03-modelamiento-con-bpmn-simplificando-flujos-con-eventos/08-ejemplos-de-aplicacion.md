@@ -1,4 +1,3 @@
-
 # Ejemplos de Aplicación de Eventos en BPMN
 
 ## Introducción
@@ -29,6 +28,9 @@ El funcionario le entrega un documento para que firme y le solicita que cambie l
 12. **Actividad**: Funcionario entrega documentación final para firma
 13. **Evento de finalización**: Proceso completado
 
+### Diagrama BPMN
+![Ejemplo 1 de diagrama BPMN](/images/08-ejemplo1.png)
+
 ## Ejercicio 2: Proceso de Cobranzas
 
 ### Descripción del proceso
@@ -46,10 +48,12 @@ El área de cobranzas revisa la relación de deudores dependiendo del número de
 3. **Compuerta**: Selección por número de cuotas vencidas (3 caminos posibles)
 
 **Camino 1 - Una cuota vencida**:
+
 - **Actividad**: Enviar correo indicando que tiene una cuota vencida
 - **Evento de finalización**: Finaliza este flujo
 
 **Camino 2 - Dos cuotas vencidas**:
+
 - **Actividad**: Enviar carta dando plazo de dos días para cancelar
 - **Evento temporizador adosado a la actividad**: Espera de dos días
 - **Compuerta**: ¿Pagó el cliente?
@@ -62,8 +66,12 @@ El área de cobranzas revisa la relación de deudores dependiendo del número de
     - **Evento de finalización**: Finaliza este flujo
 
 **Camino 3 - Tres o más cuotas vencidas**:
+
 - **Actividad**: Llamar por teléfono para informar inicio de acciones legales
 - **Evento de finalización**: Finaliza este flujo
+
+### Diagrama BPMN
+![Ejemplo 2 de diagrama BPMN](/images/8-ejemplo2.png)
 
 ## Errores comunes a evitar
 
