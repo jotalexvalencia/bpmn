@@ -29,7 +29,10 @@ El funcionario le entrega un documento para que firme y le solicita que cambie l
 13. **Evento de finalización**: Proceso completado
 
 ### Diagrama BPMN
-![Ejemplo 1 de diagrama BPMN](/images/08-ejemplo1.png)
+
+<div style="text-align: center; margin: 20px 0;">
+  <img src="../images/08-ejemplo1.png" alt="Ejemplo 1 de diagrama BPMN" style="max-width: 100%; height: auto; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
 
 ## Ejercicio 2: Proceso de Cobranzas
 
@@ -71,7 +74,9 @@ El área de cobranzas revisa la relación de deudores dependiendo del número de
 - **Evento de finalización**: Finaliza este flujo
 
 ### Diagrama BPMN
-![Ejemplo 2 de diagrama BPMN](/images/8-ejemplo2.png)
+<div style="text-align: center; margin: 20px 0;">
+  <img src="../images/8-ejemplo2.png" alt="Ejemplo 2 de diagrama BPMN" style="max-width: 100%; height: auto; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
 
 ## Errores comunes a evitar
 
