@@ -77,6 +77,10 @@ Veamos un ejemplo del proceso de solicitud de crédito para la compra de un auto
 - Flujo de mensaje desde la actividad del funcionario de créditos hacia el evento de inicio del proceso de evaluación de riesgos
 - Flujo de mensaje desde el evento de fin del proceso de evaluación de riesgos hacia el evento intermedio de espera del funcionario de créditos
 
+<div style="text-align: center; margin: 20px 0;">
+  <img src="../images/10-flujo-evaluacion-creditos.png" alt="Ejemplo proceso solicitud de crédito diagrama BPMN" style="max-width: 100%; height: auto; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+
 ## Resumen
 
 - Los **Pools** agrupan todas las actividades que forman parte de un proceso.
